@@ -1,6 +1,6 @@
 ![logo](https://github.com/BraveKrish/BraveKrish/blob/main/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <h1 align="center">Hi 👋, I'm Krishna(BraveKrish)</h1>
-<h3 align="center">A passionate Web App (I enjoy to works on Backend Development) developer from Nepal.</h3>
+<h3 align="left">A passionate Web App (I enjoy to works on Backend Development) developer from Nepal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
